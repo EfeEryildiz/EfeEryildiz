@@ -1,16 +1,18 @@
-## Hi there 👋
+[![bg][banner]][website]
 
-<!--
-**EfeEryildiz/EfeEryildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p id="socialIcons" align="center">
+    <a href="https://www.linkedin.com/in/efe-eryildiz-44962715b/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+    </a>
+    <a href="" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
+    </a>
+    <a href="" alt="StackOverflow">
+        <img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" />
+    </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
+[website]: h
+[github]: https://github.com/EfeEryildiz
+[linkedin]: https://www.linkedin.com/in/efe-eryildiz-44962715b/
