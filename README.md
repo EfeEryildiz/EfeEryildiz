@@ -12,7 +12,7 @@
     </a>
 </p>
 
-[banner]: https://raw.githubusercontent.com/ahsankhan26/ahsankhan26/master/banner.jpg
+[banner]: 
 [website]: h
 [github]: https://github.com/EfeEryildiz
 [linkedin]: https://www.linkedin.com/in/efe-eryildiz-44962715b/
