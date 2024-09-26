@@ -4,7 +4,6 @@
 
 <!-- Profile Views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EfeEryildiz&label=Profile%20views&color=0e75b6&style=flat" alt=EfeEryildiz width="100"/>
-</a>
   </p>
 
 <!-- Social Media Links -->
