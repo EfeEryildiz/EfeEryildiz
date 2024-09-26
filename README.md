@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer</h3>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EfeEryildiz&label=Profile%20views&color=0e75b6&style=flat" alt=EfeEryildiz width="100"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EfeEryildiz&label=Profile%20views&color=0e75b6&style=flat" alt=EfeEryildiz height="100"/>
   </p>
 
 <!-- Social Media Links -->
