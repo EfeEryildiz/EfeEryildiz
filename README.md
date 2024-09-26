@@ -7,7 +7,9 @@
 
 <!-- Social Media Links -->
 <p align="left">
-<a href="[https://www.linkedin.com/in/efe-eryildiz-44962715b/]" target="blank"><img src="https://img.shields.io/linkedin/follow/efe-eryildiz-44962715b?logo=linkedin&style=for-the-badge" alt="your_username" /></a>
+<a href="https://www.linkedin.com/in/efe-eryildiz-44962715b/" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <!-- About Me -->
