@@ -3,12 +3,12 @@
 <h3 align="center">A passionate developer</h3>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EfeEryildiz&label=Profile%20views&color=0e75b6&style=flat" alt=EfeEryildiz /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EfeEryildiz&label=Profile%20views&color=0e75b6&style=flat" alt=EfeEryildiz width="100" height="100"/> </p>
 
 <!-- Social Media Links -->
 <p align="left">
 <a href="https://www.linkedin.com/in/efe-eryildiz-44962715b/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="100" height="100"/>
   </a>
 </p>
 
