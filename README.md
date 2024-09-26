@@ -1,13 +1,13 @@
 <!-- Header -->
-<h1 align="center">Hi there, I'm <a href="your_website_url" target="_blank">Your Name</a> 👋</h1>
-<h3 align="center">A passionate developer from Your Country</h3>
+<h1 align="center">Hi there, I'm <a href="your_website_url" target="_blank">Efe</a> 👋</h1>
+<h3 align="center">A passionate developer</h3>
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat" alt="your_username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat" alt=EfeEryildiz /> </p>
 
 <!-- Social Media Links -->
 <p align="left">
-<a href="https://twitter.com/your_username" target="blank"><img src="https://img.shields.io/twitter/follow/your_username?logo=twitter&style=for-the-badge" alt="your_username" /></a>
+<a href="[https://www.linkedin.com/in/efe-eryildiz-44962715b/]" target="blank"><img src="https://img.shields.io/linkedin/follow/efe-eryildiz-44962715b?logo=linkedin&style=for-the-badge" alt="your_username" /></a>
 </p>
 
 <!-- About Me -->
