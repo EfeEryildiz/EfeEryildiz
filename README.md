@@ -9,7 +9,7 @@
 <!-- Social Media Links -->
 <p align="left">
 <a href="https://www.linkedin.com/in/efe-eryildiz-44962715b/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="150"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn" width="100"/>
   </a>
 </p>
 
