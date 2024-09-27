@@ -28,6 +28,15 @@
 
 - ⚡ Fun fact **Something Interesting About You**
 
+<!-- Languages and Tools with Styled Icons -->
+<style>
+.tech-icon {
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+}
+  </style>
+
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
