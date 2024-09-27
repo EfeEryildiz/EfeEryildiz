@@ -1,9 +1,5 @@
-<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h1 align="center">Welcome to My GitHub Profile!</h1>
-  <p align="center">I'm a passionate developer who loves coding.</p>
-</div>
-
 <!-- Header -->
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
 <h1 align="center">Hi there, I'm <a href="your_website_url" target="_blank">Efe</a> 👋</h1>
 <h3 align="center">A passionate developer</h3>
 
