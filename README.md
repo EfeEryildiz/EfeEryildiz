@@ -13,20 +13,6 @@
 </p>
 
 <!-- About Me -->
-- 🔭 I’m currently working on **TBA**
-
-- 🌱 I’m currently learning **Technology/Languages**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 🤝 I’m looking for help with **Project or Topic**
-
-- 💬 Ask me about **Expertise or Interests**
-
-- 📫 How to reach me **your_email@example.com**
-
-- ⚡ Fun fact **Something Interesting About You**
-
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
