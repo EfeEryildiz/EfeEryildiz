@@ -42,7 +42,7 @@
 <!-- GitHub Stats -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EfeEryildiz&show_icons=true&locale=en&layout=compact" alt=EfeEryildiz /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&locale=en" alt="your_username" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EfeEryildiz&show_icons=true&locale=en" alt=EfeEryildiz /></p>
 
 <!-- Optional: Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&" alt="your_username" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EfeEryildiz&" alt=EfeEryildiz /></p>
