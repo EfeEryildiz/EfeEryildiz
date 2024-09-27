@@ -40,7 +40,7 @@
 </p>
 
 <!-- GitHub Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your_username&show_icons=true&locale=en&layout=compact" alt="your_username" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EfeEryildiz&show_icons=true&locale=en&layout=compact" alt=EfeEryildiz /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&locale=en" alt="your_username" /></p>
 
