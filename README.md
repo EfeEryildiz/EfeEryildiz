@@ -1,6 +1,5 @@
 <!-- Header -->
-<div style="background-color: yellow; padding: 20px; border-radius: 10px;">
-<h1 align="center">Hi there, I'm <a href="your_website_url" target="_blank">Efe</a> 👋</h1>
+<h1 align="center">Hi there, Welcome to my Github</a> 👋</h1>
 <h3 align="center">A passionate developer</h3>
 
 <!-- Profile Views -->
