@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/efe-eryildiz-44962715b/) 
 
 # 💻 Tech Stack:
-<p align="center" width="50%">
+<p align="center" width="30%">
     <img width="32%" src="https://github.com/user-attachments/assets/03e00143-8936-4917-b789-7c41fab17f5a">  
 </p>
 
