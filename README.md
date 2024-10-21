@@ -8,7 +8,7 @@
 # 💻 Tech Stack:
 **Align center:**
 <p align="center" 
-    ![image](https://github.com/user-attachments/assets/03e00143-8936-4917-b789-7c41fab17f5a)>
+    src="https://github.com/user-attachments/assets/03e00143-8936-4917-b789-7c41fab17f5a">
 </p>
 ![image](https://github.com/user-attachments/assets/03e00143-8936-4917-b789-7c41fab17f5a)
 
