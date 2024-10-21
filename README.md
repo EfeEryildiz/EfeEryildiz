@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-    <img width="10" height="10" src="https://github.com/user-attachments/assets/03e00143-8936-4917-b789-7c41fab17f5a" 
+    <img width="50" height="50" src="https://github.com/user-attachments/assets/03e00143-8936-4917-b789-7c41fab17f5a" 
         "Tech Stack:">  
 </p>
 
