@@ -1,10 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working as a **Software Engineer (R&D) at Businessolver**, building scalable backend services with Java & Spring Boot  
+🔭 I’m currently working as a **Software Engineer at Businessolver**, building scalable backend services with Java & Spring Boot  
 👯 I’m looking to collaborate on **open-source projects, backend systems, and developer tooling**  
-🤝 I’m looking for help with **advanced DevOps practices and distributed systems**  
 🌱 I’m currently learning **Go, Kubernetes, and Cloud Security**  
-💬 Ask me about **Java, Python, React, or how to build full-stack apps**  
-⚡ Fun fact: I built an **algorithm visualizer** to help students learn sorting step by step  
+💬 Ask me about **Java, Python, React, or how to build full-stack apps** 
 
 ---
 
